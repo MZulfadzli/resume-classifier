@@ -6,8 +6,8 @@ Please install the environment with requirements.txt file before run the trainin
 python training_model.py
 ```
 
-The model achieve accuracy above 0.8.
+The model achieved accuracy above 0.92:
 
-![image](https://user-images.githubusercontent.com/73336970/186879811-38ca3be4-d12a-4c8c-8388-eeb0ab0af417.png)
+![image](https://user-images.githubusercontent.com/73336970/187857717-70178139-91b1-4345-90d6-8b88bfadf203.png)
 
 * This program is run based on Python 3.7.13
