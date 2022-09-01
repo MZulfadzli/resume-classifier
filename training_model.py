@@ -5,8 +5,8 @@ from sklearn.model_selection import train_test_split
 
 model_conf = {
     "l1": 1.0,
-    "l2": 1e-2,
-    "max_iter": 30
+    "l2": 1e-3,
+    "max_iter": 100
 }
 
 
